@@ -15,7 +15,7 @@
         </li>
       </ul>
       <div class="btn">
-        <button class="btn-reset" @click="reset">重置游戏</button>
+        <button class="btn-reset" @click="reset">开始</button>
       </div>
     </div>
     <div class="box1">
